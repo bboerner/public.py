@@ -61,6 +61,10 @@ Example
 	['name','name1','name2']
 	
 
+`Examples/`_
+
+.. _Examples/: https://github.com/russianidiot/public.py/tree/master/Examples
+
 Sources:
 
 *	`py_modules/public.py`_

@@ -3,7 +3,7 @@
 [![codacy.com](https://img.shields.io/codacy/6692c8b8d1194b3db696b456b683ad94.svg)](https://www.codacy.com/app/russianidiot-github/public-py/dashboard)[![landscape.io](https://landscape.io/github/russianidiot/public.py/master/landscape.svg?style=flat)](https://landscape.io/github/russianidiot/public.py/master)[![Code Climate](https://img.shields.io/codeclimate/github/russianidiot/public.py.svg)](https://codeclimate.com/github/russianidiot/public.py)
 [![Code Health](https://scrutinizer-ci.com/g/russianidiot/public.py/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/russianidiot/public.py)
 
-[![Build Status](https://travis-ci.org/russianidiot/public.py.svg?branch=master)](https://travis-ci.org/russianidiot/public.py)[![drone.io](https://drone.io/github.com/russianidiot/public.py/status.png)](https://drone.io/github.com/russianidiot/public.py)[![Wercker](https://img.shields.io/wercker/ci/russianidiot/public.py.svg)](https://app.wercker.com/#applications/None/)
+[![Build Status](https://travis-ci.org/russianidiot/public.py.svg?branch=master)](https://travis-ci.org/russianidiot/public.py)[![drone.io](https://drone.io/github.com/russianidiot/public.py/status.png)](https://drone.io/github.com/russianidiot/public.py)[![Wercker](https://img.shields.io/wercker/ci/russianidiot/public.py.svg)](https://app.wercker.com/#applications/5702681e4b64a4362009961b/)
 [![codecov.io](https://codecov.io/github/russianidiot/public.py/coverage.svg?branch=master)](https://codecov.io/github/russianidiot/public.py?branch=master)
 
 [![PyPI](https://img.shields.io/pypi/v/public.svg)](https://pypi.python.org/pypi/public)
@@ -11,7 +11,7 @@
 [![PyPI](https://img.shields.io/pypi/dd/public.svg)](https://pypi.python.org/pypi/public)
 
 <p align="center">
-	<b>@public decorator, public(*objects) function - add objects names to __all__</b>
+    <b>@public decorator, public(*objects) function - add objects names to __all__</b>
 </p>
 
 #### Install
@@ -50,6 +50,8 @@ pip:
 ['name','name1','name2']
 
 ```
+
+[Examples/](https://github.com/russianidiot/public.py/tree/master/Examples)
 
 Sources:
 *	[py_modules/public.py](https://github.com/russianidiot/public.py/blob/master/py_modules/public.py)
