@@ -2,10 +2,11 @@
 import inspect
 from public import public
 
-result="result"
+result = "result"
+
 
 @public
-def func():	
-	return result
+def func():
+    return result
 
-assert func()==result
+assert func() == result

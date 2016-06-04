@@ -1,8 +1,9 @@
 #!/usr/bin/env python
 from public import public
 
+
 @public
 class Cls():
-	pass
+    pass
 
-print(__all__) # ['Cls']
+print(__all__)  # ['Cls']

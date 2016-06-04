@@ -2,8 +2,9 @@
 import inspect
 from public import public
 
-@public
-def func():	
-	pass
 
-assert inspect.isfunction(func)==True
+@public
+def func():
+    pass
+
+assert inspect.isfunction(func)

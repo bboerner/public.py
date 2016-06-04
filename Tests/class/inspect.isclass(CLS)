@@ -2,8 +2,9 @@
 import inspect
 from public import public
 
+
 @public
 class CLS:
-	pass
+    pass
 
-assert inspect.isclass(CLS)==True
+assert inspect.isclass(CLS)

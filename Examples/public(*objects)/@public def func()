@@ -1,8 +1,9 @@
 #!/usr/bin/env python
 from public import public
 
+
 @public
 def func():
-	pass
+    pass
 
-print(__all__) # ['func']
+print(__all__)  # ['func']
