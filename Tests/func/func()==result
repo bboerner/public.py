@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-import inspect
 from public import public
 
 result = "result"
