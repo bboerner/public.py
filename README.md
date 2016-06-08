@@ -1,10 +1,27 @@
 ![python](https://img.shields.io/badge/language-python-blue.svg)[![PyPI](https://img.shields.io/pypi/pyversions/public.svg)](https://pypi.python.org/pypi/public)
 
-[![codacy.com](https://img.shields.io/codacy/6692c8b8d1194b3db696b456b683ad94.svg)](https://www.codacy.com/app/russianidiot-github/public-py/dashboard)[![landscape.io](https://landscape.io/github/russianidiot/public.py/master/landscape.svg?style=flat)](https://landscape.io/github/russianidiot/public.py/master)[![Code Climate](https://img.shields.io/codeclimate/github/russianidiot/public.py.svg)](https://codeclimate.com/github/russianidiot/public.py)
-[![Code Health](https://scrutinizer-ci.com/g/russianidiot/public.py/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/russianidiot/public.py)
+[![codacy.com](https://api.codacy.com/project/badge/Grade/6692c8b8d1194b3db696b456b683ad94)](https://www.codacy.com/app/russianidiot-github/public-py/dashboard)
+[![landscape.io](https://landscape.io/github/russianidiot/public.py/master/landscape.svg?style=flat)](https://landscape.io/github/russianidiot/public.py)
+[![codeclimate.com](https://codeclimate.com/github/russianidiot/public.py/badges/gpa.svg)](https://codeclimate.com/github/russianidiot/public.py)
+[![scrutinizer-ci.com](https://scrutinizer-ci.com/g/russianidiot/public.py/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/russianidiot/public.py/)
 
-[![Build Status](https://travis-ci.org/russianidiot/public.py.svg?branch=master)](https://travis-ci.org/russianidiot/public.py)[![drone.io](https://drone.io/github.com/russianidiot/public.py/status.png)](https://drone.io/github.com/russianidiot/public.py)[![Wercker](https://app.wercker.com/status/f9a3b6fa3f83012adafea514154b8b37/s/master)](https://app.wercker.com/#applications/5702681e4b64a4362009961b/)
 [![codecov.io](https://codecov.io/github/russianidiot/public.py/coverage.svg?branch=master)](https://codecov.io/github/russianidiot/public.py?branch=master)
+[![drone.io](https://drone.io/github.com/russianidiot/public.py/status.png)](https://drone.io/github.com/russianidiot/public.py)
+[![scrutinizer-ci.com](https://scrutinizer-ci.com/g/russianidiot/public.py/badges/build.png?b=master)](https://scrutinizer-ci.com/g/russianidiot/public.py/)
+[![semaphoreci.com](https://semaphoreci.com/api/v1/russianidiot/public-py/branches/master/shields_badge.svg)](https://semaphoreci.com/russianidiot/public-py)
+[![shippable.com](https://api.shippable.com/projects/57068cbb2a8192902e1bbbd6/badge?branch=master)](https://app.shippable.com/projects/57068cbb2a8192902e1bbbd6)
+[![travis-ci.org](https://travis-ci.org/russianidiot/public.py.svg)](https://travis-ci.org/russianidiot/public.py)
+[![wercker.com](https://app.wercker.com/status/f9a3b6fa3f83012adafea514154b8b37/s/master)](https://app.wercker.com/#applications/5702681e4b64a4362009961b)
+
+<h1 color="red">Integrations</h1>
+*	shippable.com:
+[open](https://app.shippable.com/projects/57068cbb2a8192902e1bbbd6)
+[add](https://app.shippable.com/subscriptions/57068cba2a8192902e1bbb7e?add=russianidiot/public.py)
+[badge](https://api.shippable.com/projects/57068cbb2a8192902e1bbbd6/badge?branch=master)
+*	semaphoreci.com:
+[open](https://semaphoreci.com/russianidiot/public-py)
+[add](https://semaphoreci.com/projects/new?repo_host=github&add=russianidiot/public.py)
+[badge](https://semaphoreci.com/api/v1/russianidiot/public-py/branches/master/shields_badge.svg)
 
 [![PyPI](https://img.shields.io/pypi/v/public.svg)](https://pypi.python.org/pypi/public)
 [![PyPI](https://img.shields.io/pypi/dm/public.svg)](https://pypi.python.org/pypi/public)

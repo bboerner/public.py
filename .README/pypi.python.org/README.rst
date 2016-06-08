@@ -5,20 +5,20 @@
 
 |codacy| |landscape| |codeclimate| |scrutinizer|
 
-.. |scrutinizer| image:: https://scrutinizer-ci.com/g/russianidiot/public.py/badges/quality-score.png?b=master
-   :target: https://scrutinizer-ci.com/g/russianidiot/public.py/master
+.. |scrutinizer| image:: https://scrutinizer-ci.com/g/russianidiot/public.py/badges/build.png?b=master
+   :target: https://scrutinizer-ci.com/g/russianidiot/public.py/
    :alt: scrutinizer-ci.com
 
-.. |codacy| image:: https://img.shields.io/codacy/6692c8b8d1194b3db696b456b683ad94.svg
+.. |codacy| image:: https://api.codacy.com/project/badge/Grade/6692c8b8d1194b3db696b456b683ad94
    :target: https://www.codacy.com/app/russianidiot-github/public-py/dashboard
    :alt: codacy.com
 
-.. |codeclimate| image:: https://img.shields.io/codeclimate/github/russianidiot/public.py.svg
+.. |codeclimate| image:: https://codeclimate.com/github/russianidiot/public.py/badges/gpa.svg
    :target: https://codeclimate.com/github/russianidiot/public.py
    :alt: codeclimate.com
 
 .. |landscape| image:: https://landscape.io/github/russianidiot/public.py/master/landscape.svg?style=flat
-   :target: https://landscape.io/github/russianidiot/public.py/master
+   :target: https://landscape.io/github/russianidiot/public.py/master/landscape.svg?style=flat
    :alt: landscape.io
 
 Install
