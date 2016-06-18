@@ -13,16 +13,6 @@
 [![travis-ci.org](https://travis-ci.org/russianidiot/public.py.svg)](https://travis-ci.org/russianidiot/public.py)
 [![wercker.com](https://app.wercker.com/status/f9a3b6fa3f83012adafea514154b8b37/s/master)](https://app.wercker.com/#applications/5702681e4b64a4362009961b)
 
-<h1 color="red">Integrations</h1>
-*	shippable.com:
-[open](https://app.shippable.com/projects/57068cbb2a8192902e1bbbd6)
-[add](https://app.shippable.com/subscriptions/57068cba2a8192902e1bbb7e?add=russianidiot/public.py)
-[badge](https://api.shippable.com/projects/57068cbb2a8192902e1bbbd6/badge?branch=master)
-*	semaphoreci.com:
-[open](https://semaphoreci.com/russianidiot/public-py)
-[add](https://semaphoreci.com/projects/new?repo_host=github&add=russianidiot/public.py)
-[badge](https://semaphoreci.com/api/v1/russianidiot/public-py/branches/master/shields_badge.svg)
-
 [![PyPI](https://img.shields.io/pypi/v/public.svg)](https://pypi.python.org/pypi/public)
 [![PyPI](https://img.shields.io/pypi/dm/public.svg)](https://pypi.python.org/pypi/public)
 [![PyPI](https://img.shields.io/pypi/dd/public.svg)](https://pypi.python.org/pypi/public)
