@@ -28,7 +28,7 @@ if os.path.exists(path) and os.path.isdir(path):
             package_data[package] = ['*']
 else:
     if __name__ == "__main__":
-        print("SKIP: %s/ NOT EXISTS" % path)
+        print("%s/ NOT EXISTS" % path)
 
 if __name__ == "__main__":
     for k in __all__:

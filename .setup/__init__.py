@@ -5,7 +5,7 @@ import os
 import sys
 import warnings
 
-__all__ = ["HOME","REPO", "read", "readlines", "load_module"]
+__all__ = ["HOME", "REPO", "read", "readlines", "load_module"]
 
 REPO = os.path.abspath(os.path.dirname(os.path.dirname(__file__)))
 if 'HOME' in os.environ:
@@ -18,6 +18,7 @@ elif os.name == 'nt':
             HOME = os.environ['HOMEDRIVE'] + os.environ['HOMEPATH']
         else:
             HOME = os.environ['HOMEPATH']
+
 
 def read(path):
     if os.path.exists(path) and os.path.isfile(path):
