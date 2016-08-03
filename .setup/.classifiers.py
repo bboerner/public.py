@@ -6,7 +6,7 @@ from __init__ import HOME, REPO, readlines
 __all__ = ["classifiers"]
 
 classifiers = []
-# ~/.classifiers.txt (default)
+# ~/.classifiers.txt, $CLASSIFIERS (default)
 # ./.classifiers.txt, ./classifiers.txt (custom)
 for path in [
         os.path.join(HOME, ".classifiers.txt"),

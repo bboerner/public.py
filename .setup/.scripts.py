@@ -7,7 +7,7 @@ __all__ = ["scripts"]
 
 
 def valid_script_name(name):
-    if name[0] == ".":  # skip .hidden files
+    if name == ".DS_Store":
         return False
     if " " in name:  # skip filename with ' ' space
         return False
