@@ -15,7 +15,7 @@ README generated with readmemako.py (github.com/russianidiot/readme-mako.py) and
 [![semaphoreci.com](https://semaphoreci.com/api/v1/russianidiot/public-py/branches/master/shields_badge.svg)](https://semaphoreci.com/russianidiot/public-py)
 [![shippable.com](https://api.shippable.com/projects/57068cbb2a8192902e1bbbd6/badge?branch=master)](https://app.shippable.com/projects/57068cbb2a8192902e1bbbd6/status/)
 [![travis-ci.org](https://api.travis-ci.org/russianidiot/public.py.svg)](https://travis-ci.org/russianidiot/public.py)
-[![wercker.com](https://app.wercker.com/status/f9a3b6fa3f83012adafea514154b8b37/s/master)](https://app.wercker.com/#applications/5702681e4b64a4362009961b)
+[![wercker.com](https://app.wercker.com/status/f9a3b6fa3f83012adafea514154b8b37/s/master)](https://app.wercker.com/russianidiot/public.py/)
 
 <p align="center">
     <b>@public decorator, public(*objects) function - add objects names to __all__</b>
